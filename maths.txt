@@ -1,3 +1,4 @@
 1.Basic Maths
 2.Quadratic Equations
 3.Sequences and Series
+4.Trigonometry
