@@ -2,3 +2,5 @@
 2.Quadratic Equations
 3.Sequences and Series
 4.Trigonometry
+4.Trigonometric equations
+
